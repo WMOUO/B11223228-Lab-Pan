@@ -1,0 +1,3 @@
+{
+    "test": "env TZ='Asia/Taipei' ts-node index.ts"
+}
